@@ -1,0 +1,8 @@
+"Expense_ID","Date","Category","Amount","Description"
+1,2026-09-01,"Food",250,"Lunch"
+2,2026-09-03,"Transport",100,"Bus fare"
+3,2026-09-05,"Education",500,"Books"
+4,2026-09-10,"Shopping",800,"Clothes"
+5,2026-09-15,"Entertainment",300,"Movie"
+7,2026-10-15,"Education",10000,"college fees"
+8,2026-10-03,"Food",2000,"Treat"
